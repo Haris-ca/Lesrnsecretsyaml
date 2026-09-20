@@ -11,7 +11,7 @@ env:
   NODE_VERSION: '20'
 
 jobs:
-  Buiild&Test:
+  Buiild_Test:
     name: Build and test runner
     runs-on: ubuntu-latest
 
